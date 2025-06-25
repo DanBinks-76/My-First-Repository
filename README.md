@@ -24,10 +24,21 @@ SQL|10/10
 Python|10/10
 Driving|0/10
 
-###Life achievments
+### Example of his coding skill
+```python
+print("Hello World")
+```
+
+```sql
+SELECT *
+FROM everywhere
+```
+
+### Life achievments
 - [x] Born
 - [x] Did school
 - [x] Got a job
+- [ ] Get bus pass
 - [ ] Bought a house
 - [ ] Had kids
 
