@@ -6,7 +6,7 @@ Callum is 19 and he works at Durham University as an Undergraduate Apprentice. H
 
 ### His Education 📖
 Callum studied as a T level student at New College Durham before joining Durham as an apprentice. <br>
-He now studies at Exeter University while working at Durham
+He now studies at Exeter University while working at Durham <br>
 ~~He also is well educated in empty threats~~
 
 [proof]{https://www.durham.ac.uk/news-events/latest-news/2024/10/t-level-students-secure-apprenticeships/}
